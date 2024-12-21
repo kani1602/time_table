@@ -62,6 +62,12 @@ Execute the program using runserver command.
         }
     </style>
 </head>
+<!-- Header with Logo -->
+<div class="logo">
+    <center>
+        <img src="saveetha logo 1.png" width="1000" height="200" alt="Logo">
+    </center>
+</div>
 <body>
     <center>
         <h3>SLOT TIME TABLE - V. KANISHKA (24003362)</h3>
@@ -151,6 +157,7 @@ Execute the program using runserver command.
     </center>
 </body>
 </html>
+
 ```
 # OUTPUT
 ![alt text](<Screenshot 2024-12-21 101738.png>)
